@@ -21,6 +21,7 @@ Z-Score Calculation:
 Implement the Altman Z-Score formula:
 
 𝑍 = 1.2×X1 ​+ 1.4×X2​ + 3.3×X3 ​+ 0.6×X4 ​+ 1.0×X5​
+
 where:
 X1 = Working Capital / Total Assets
 X2 = Retained Earnings / Total Assets
